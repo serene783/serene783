@@ -1,0 +1,13 @@
+<svg width="100%" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Waving Footer Shape -->
+  <path d="M0 45 C150 15 300 70 450 40 C600 10 750 65 900 25 V80 H0 Z" fill="url(#footerGrad)"/>
+  <path d="M0 45 C150 15 300 70 450 40 C600 10 750 65 900 25" stroke="#30363D" stroke-width="1.5" fill="none"/>
+</svg>

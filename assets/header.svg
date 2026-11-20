@@ -1,0 +1,41 @@
+<svg width="100%" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .header-title {
+        font-family: 'Centaur', 'EB Garamond', Georgia, serif;
+        font-size: 52px;
+        font-weight: 700;
+        fill: #FFFFFF;
+        letter-spacing: 4px;
+        text-anchor: middle;
+      }
+      .header-desc {
+        font-family: 'Centaur', 'EB Garamond', Georgia, serif;
+        font-size: 17px;
+        font-weight: 500;
+        fill: #8B949E;
+        letter-spacing: 2px;
+        text-anchor: middle;
+      }
+    </style>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Waving Header Background Shape -->
+  <path d="M0 0 H900 V135 C750 175 600 115 450 145 C300 175 150 120 0 150 Z" fill="url(#waveGrad)"/>
+  <path d="M0 0 H900 V135 C750 175 600 115 450 145 C300 175 150 120 0 150 Z" stroke="#30363D" stroke-width="1.5" fill="none"/>
+
+  <!-- Subtle Accent Accents -->
+  <circle cx="210" cy="50" r="1.5" fill="#FFFFFF" opacity="0.4"/>
+  <circle cx="260" cy="90" r="2" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="680" cy="45" r="2" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="720" cy="85" r="1.5" fill="#FFFFFF" opacity="0.4"/>
+
+  <!-- Title & Description in Centaur -->
+  <text x="450" y="82" class="header-title">serene783</text>
+  <text x="450" y="118" class="header-desc">Frontend &amp; Software Developer</text>
+</svg>
