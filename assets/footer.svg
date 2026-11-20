@@ -1,0 +1,42 @@
+<svg width="100%" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes footerWaveFlow {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-450px); }
+      }
+      @keyframes footerWaveFlowReverse {
+        0% { transform: translateX(-450px); }
+        100% { transform: translateX(0); }
+      }
+      .footer-wave-back {
+        animation: footerWaveFlow 16s linear infinite;
+      }
+      .footer-wave-front {
+        animation: footerWaveFlowReverse 11s linear infinite;
+      }
+    </style>
+    <linearGradient id="footerGradBack" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12161C"/>
+      <stop offset="50%" stop-color="#090B0E"/>
+      <stop offset="100%" stop-color="#12161C"/>
+    </linearGradient>
+    <linearGradient id="footerGradFront" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1C2128"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Deeper Wave Layer -->
+  <g class="footer-wave-back">
+    <path d="M0 45 Q112.5 25 225 45 Q337.5 65 450 45 Q562.5 25 675 45 Q787.5 65 900 45 Q1012.5 25 1125 45 Q1237.5 65 1350 45 Q1462.5 25 1575 45 Q1687.5 65 1800 45 V80 H0 Z" fill="url(#footerGradBack)"/>
+    <path d="M0 45 Q112.5 25 225 45 Q337.5 65 450 45 Q562.5 25 675 45 Q787.5 65 900 45 Q1012.5 25 1125 45 Q1237.5 65 1350 45 Q1462.5 25 1575 45 Q1687.5 65 1800 45" stroke="#21262D" stroke-width="1.2" fill="none"/>
+  </g>
+
+  <!-- Animated Foreground Wave Layer -->
+  <g class="footer-wave-front">
+    <path d="M0 35 Q112.5 55 225 35 Q337.5 15 450 35 Q562.5 55 675 35 Q787.5 15 900 35 Q1012.5 55 1125 35 Q1237.5 15 1350 35 Q1462.5 55 1575 35 Q1687.5 15 1800 35 V80 H0 Z" fill="url(#footerGradFront)" fill-opacity="0.9"/>
+    <path d="M0 35 Q112.5 55 225 35 Q337.5 15 450 35 Q562.5 55 675 35 Q787.5 15 900 35 Q1012.5 55 1125 35 Q1237.5 15 1350 35 Q1462.5 55 1575 35 Q1687.5 15 1800 35" stroke="#30363D" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>
