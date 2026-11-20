@@ -10,22 +10,13 @@
 
 <!-- Social Badges (Monochrome M3 Expressive Pills) -->
 <p align="center">
-  <a href="https://t.me/senereal" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://discord.com/users/536141478691471361" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://open.spotify.com/playlist/5Kq6vsVZbSpqHFwf2sjJzA?si=fM6xFUZKTpCLZtCp7EXsAQ" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=senereal44@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-  <a href="https://steamcommunity.com/profiles/76561199068423786/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
+  <a href="https://t.me/senereal" target="_blank"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/536141478691471361" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://open.spotify.com/playlist/5Kq6vsVZbSpqHFwf2sjJzA?si=fM6xFUZKTpCLZtCp7EXsAQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=senereal44@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://steamcommunity.com/profiles/76561199068423786/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 </p>
+
 
 <!-- M3 Expressive Cards: About me & Tech stack (Идут сразу друг за другом) -->
 <img src="./assets/about.svg" width="680" alt="About Me" />
