@@ -81,6 +81,5 @@
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" alt="Footer" />
 
-<sub>Designed with Material 3 Expressive aesthetics • Monochrome Edition • serene783</sub>
 
 </div>
